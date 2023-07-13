@@ -1,0 +1,1 @@
+Cần phải đổi đường dẫn file Text.txt trong hàm ReadFile() để chạy chương trình!!!

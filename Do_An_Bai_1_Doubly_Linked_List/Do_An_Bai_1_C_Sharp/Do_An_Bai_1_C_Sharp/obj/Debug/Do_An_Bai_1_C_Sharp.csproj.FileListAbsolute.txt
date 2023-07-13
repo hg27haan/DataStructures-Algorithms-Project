@@ -1,0 +1,16 @@
+D:\Uni\CTDL & GT\DoAn\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\obj\Debug\Do_An_Bai_1_C_Sharp.csproj.AssemblyReference.cache
+D:\Uni\CTDL & GT\DoAn\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\obj\Debug\Do_An_Bai_1_C_Sharp.csproj.SuggestedBindingRedirects.cache
+D:\Uni\CTDL & GT\DoAn\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\obj\Debug\Do_An_Bai_1_C_Sharp.csproj.CoreCompileInputs.cache
+D:\Uni\CTDL & GT\DoAn\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\bin\Debug\Do_An_Bai_1_C_Sharp.exe.config
+D:\Uni\CTDL & GT\DoAn\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\bin\Debug\Do_An_Bai_1_C_Sharp.exe
+D:\Uni\CTDL & GT\DoAn\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\bin\Debug\Do_An_Bai_1_C_Sharp.pdb
+D:\Uni\CTDL & GT\DoAn\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\obj\Debug\Do_An_Bai_1_C_Sharp.exe
+D:\Uni\CTDL & GT\DoAn\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\obj\Debug\Do_An_Bai_1_C_Sharp.pdb
+C:\Users\ADMIN\Downloads\DoAn\Do_An_CTDL\Do_An_Bai_1_Doubly_Linked_List\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\bin\Debug\Do_An_Bai_1_C_Sharp.exe.config
+C:\Users\ADMIN\Downloads\DoAn\Do_An_CTDL\Do_An_Bai_1_Doubly_Linked_List\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\bin\Debug\Do_An_Bai_1_C_Sharp.exe
+C:\Users\ADMIN\Downloads\DoAn\Do_An_CTDL\Do_An_Bai_1_Doubly_Linked_List\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\bin\Debug\Do_An_Bai_1_C_Sharp.pdb
+C:\Users\ADMIN\Downloads\DoAn\Do_An_CTDL\Do_An_Bai_1_Doubly_Linked_List\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\obj\Debug\Do_An_Bai_1_C_Sharp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\DoAn\Do_An_CTDL\Do_An_Bai_1_Doubly_Linked_List\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\obj\Debug\Do_An_Bai_1_C_Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\DoAn\Do_An_CTDL\Do_An_Bai_1_Doubly_Linked_List\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\obj\Debug\Do_An_Bai_1_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DoAn\Do_An_CTDL\Do_An_Bai_1_Doubly_Linked_List\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\obj\Debug\Do_An_Bai_1_C_Sharp.exe
+C:\Users\ADMIN\Downloads\DoAn\Do_An_CTDL\Do_An_Bai_1_Doubly_Linked_List\Do_An_Bai_1_C_Sharp\Do_An_Bai_1_C_Sharp\obj\Debug\Do_An_Bai_1_C_Sharp.pdb
